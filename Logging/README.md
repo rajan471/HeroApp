@@ -1,0 +1,1 @@
+This service can be used to accumulate all the logs from other services and write them in a file at a place and in Elastic search etc..

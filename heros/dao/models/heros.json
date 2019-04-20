@@ -1,0 +1,114 @@
+[
+    {
+        "name": "SUPERMAN",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727782
+        }
+    },
+    {
+        "name": "THOR",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727783
+        }
+    },
+    {
+        "name": "ROBIN",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727784
+        }
+    },
+    {
+        "name": "IRONMAN",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727785
+        }
+    },
+    {
+        "name": "GHOSTRIDER",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727786
+        }
+    },
+    {
+        "name": "CAPTAINAMERICA",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727787
+        }
+    },
+    {
+        "name": "FLASH",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727788
+        }
+    },
+    {
+        "name": "WOLVERINE",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727789
+        }
+    },
+    {
+        "name": "BATMAN",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727790
+        }
+    },
+    {
+        "name": "HULK",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727791
+        }
+    },
+    {
+        "name": "BLADE",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727792
+        }
+    },
+    {
+        "name": "PHANTOM",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727793
+        }
+    },
+    {
+        "name": "SPIDERMAN",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727794
+        }
+    },
+    {
+        "name": "BLACKWIDOW",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727795
+        }
+    },
+    {
+        "name": "HELLBOY",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727796
+        }
+    },
+    {
+        "name": "PUNISHER",
+        "phone": {
+            "countryCode": 91,
+            "number": 7895727797
+        }
+    }
+]

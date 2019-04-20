@@ -1,0 +1,21 @@
+{
+  "name": "communication",
+  "version": "1.0.0",
+  "description": "A Hero API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chalk": "^2.4.2",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
